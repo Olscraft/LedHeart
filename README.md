@@ -25,9 +25,10 @@ There is 2 pdf files for PCBs:
 ## Sketch
 <br/>
 
-[Here](https://github.com/Olscraft/LedHeart/blob/main/heart.ino)
-
-Use [Arduino IDE](https://www.arduino.cc/en/software) for upload sketch.
+* You can find sketch [Here](https://github.com/Olscraft/LedHeart/blob/main/heart.ino).
+* You must use ISP programmer.
+* To connect, I recommend using a test clip.
+* Also i recommend using [Arduino IDE](https://www.arduino.cc/en/software) for upload sketch.
 
 
 Good luck!
